@@ -25,7 +25,7 @@ public class VulnerableTaskHolder implements Serializable {
     this.requestedExecutionTime = LocalDateTime.now();
   }
 public String toString2() {
-	return "critical password";
+	return "Critical password";
 }
   @Override
   public String toString() {
